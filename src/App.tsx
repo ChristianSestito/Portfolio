@@ -57,6 +57,14 @@ const projects = [
       "https://media.istockphoto.com/id/1035676256/it/foto/sfondo-di-galassie-e-stelle.jpg?s=612x612&w=0&k=20&c=e_Hy2QZiOHJsCzTiP2wwM2llaYTNIyKiDGlskiQCrlM=",
     github: "https://github.com/Chrisack66/ZodiAPP",
   },
+  {
+    title: "Qubica Store",
+    description: "Sito E-Commerce usando FakeStoreAPI.",
+    tags: ["Vibe Coding"],
+    image:
+      "/QubicaStore.jpg",
+    github: "https://github.com/ChristianSestito/QubicaStore",
+  },
 ];
 
 export function App() {
