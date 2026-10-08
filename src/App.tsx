@@ -65,6 +65,15 @@ const projects = [
       "/QubicaStore.jpg",
     github: "https://github.com/ChristianSestito/QubicaStore",
   },
+  {
+    title: "Sito Alessandro Sestito",
+    description:
+      "Sito web professionale per Alessandro Sestito, con sistema di prenotazione degli appuntamenti.",
+    tags: ["Vibe Coding"],
+    image:
+      "https://alessandro-sestito-portfolio.sestito.workers.dev/images/studio-hero.jpg",
+    github: "https://alessandro-sestito-portfolio.sestito.workers.dev/",
+  },
 ];
 
 export function App() {
